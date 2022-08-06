@@ -1,5 +1,4 @@
 ![AltSchool Africa Logo](https://github.com/tuyojr/altschool-opensource-names/blob/main/AltSchool.svg)
-
 # ALTSCHOOL Open Source live class playground
 
 # altschool-opensource-names
@@ -16,3 +15,5 @@ We are testing out open source contribution during our live class
    - Add file
    - Commit changes
    - Go to GitHub and click PR again the original (my version)
+
+&copy; [AltSchool Africa](https://www.altschoolafrica.com/)
