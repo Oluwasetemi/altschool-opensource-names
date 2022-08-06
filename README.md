@@ -1,3 +1,5 @@
+![AltSchool Africa Logo](https://github.com/tuyojr/altschool-opensource-names/blob/main/AltSchool.svg)
+
 # ALTSCHOOL Open Source live class playground
 
 # altschool-opensource-names
