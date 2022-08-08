@@ -2,7 +2,6 @@ Oluwasetemi Ojo
 Abdulbasit Yusuf
 Allename Anthony
 Emmanuel Olokes
-Mamodu Joshua
 Emmanuel Oloke
 Mamodu Joshua
 Carmen Amba
@@ -30,7 +29,6 @@ Adeniyi Olanrewaju Mark
 Shittu Saheed Adewale
 Jamilu Jibrilla
 Olaegbe Abdul-Rahmon
-Israel Ademola
 Adelakun Wasiu Olaiya
 Israel Ademola
 Oladeji Adeshina
@@ -42,4 +40,8 @@ James Uyi
 Iniobong Benson
 Adetunji Igbatayo
 Taiye Kadiri
+<<<<<<< HEAD
 Oluwakunmi Obaditan
+=======
+Clinton Mekwunye
+>>>>>>> 59d26bcaeede2a1be14de6fa842fa2c1a6bd2e81
