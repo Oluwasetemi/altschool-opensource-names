@@ -40,9 +40,6 @@ James Uyi
 Iniobong Benson
 Adetunji Igbatayo
 Taiye Kadiri
-Glory Yusuf
-<<<<<<< HEAD
 Oluwakunmi Obaditan
-=======
 Clinton Mekwunye
->>>>>>> 59d26bcaeede2a1be14de6fa842fa2c1a6bd2e81
+Glory Yusuf
