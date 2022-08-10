@@ -10,8 +10,9 @@ We are testing out open source contribution during our live class
 1. Fork repo
 2. Clone the forked repo to your local machine
 3. CD into the project directory
-4. Setup original repo as upstream
+4. Setup original repo as upstream{git remote add upstream [repo url]}
 5. make changes and send PR
+   - Open vscode{type in "code ."}
    - Make change
    - Add file
    - Commit changes
