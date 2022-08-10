@@ -14,8 +14,8 @@ We are testing out open source contribution during our live class
 4. Setup original repo as upstream {git remote add upstream <url-of-original-repo>}
 5. make changes and send PR
    - Make change
-   - Add file
-   - Commit changes
+   - Add file (git add .)
+   - Commit changes (git commit -m "commit message")
    - Push changes (git push origin main)
    - Go to GitHub and click PR again the original (my version)
 
