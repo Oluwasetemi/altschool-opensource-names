@@ -16,5 +16,5 @@ We are testing out open source contribution during our live class
    - Add file
    - Commit changes
    - Go to GitHub and click PR again the original (my version)
-
+Note: PR means Pull Request
 &copy; [AltSchool Africa](https://www.altschoolafrica.com/)
