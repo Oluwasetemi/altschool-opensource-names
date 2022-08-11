@@ -11,8 +11,9 @@ We are testing out open source contribution during our live class
 1. Fork repo
 2. Clone the forked repo to your local machine
 3. CD into the project directory
-4. Setup original repo as upstream {git remote add upstream <url-of-original-repo>}
-5. make changes and send PR
+4. Create a new branch and checkout to that branch
+5. Setup original repo as upstream {git remote add upstream <url-of-original-repo>}
+6. make changes and send PR
    - Make change
    - Add file
    - Commit changes
