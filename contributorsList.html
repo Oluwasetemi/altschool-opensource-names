@@ -7,11 +7,11 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <title>Contributors</title>
 </head>
-<body class=" bg-gray-700 text-gray-100 pt-12">
+<body class=" bg-gray-100 text-gray-700 pt-12">
     
     <h1 class="px-2 text-3xl font-extrabold w-fit mx-auto py-2">ALTSCHOOL Open Source live class playground</h1>
 
-    <p class=" text-base font-normal underline underline-offset-4 w-fit mx-auto">The following user are people that contributed to the project</p>
+    <p class=" text-base font-normal underline underline-offset-4 w-fit mx-auto">The following users are people that contributed to the project</p>
 
     <div id="usersList" class="p-4 max-w-[500px] mx-auto"> 
     </div>
@@ -22,13 +22,12 @@
             .then(res => res.json())
             .then(data => {
 
-                console.log(data[0])
                 let usersList = document.getElementById('usersList')
                 data.forEach((val)=> {
                    
                     const new_div = document.createElement('div')
                     new_div.innerHTML = `
-                    <div class="flex items-center space-x-4 p-4 hover:bg-gray-100 hover:text-gray-700">
+                    <div class="flex items-center space-x-4 p-4 hover:bg-gray-700 hover:text-gray-100">
                         <div class="flex-shrink-0">
                             <img src="${val['avatar_url']}" class="w-10 h-10 md:w-10 md:h-10 rounded-md" alt="Neil image">
                         </div>
