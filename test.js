@@ -14,5 +14,4 @@ for (let i = 0; i < contentArrLength; i++) {
     hasDuplicate = true;
   }
 }
-
 console.log(hasDuplicate);
