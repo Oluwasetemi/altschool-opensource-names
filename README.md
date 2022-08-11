@@ -16,6 +16,7 @@ We are testing out open source contribution during our live class
 > git remote add upstream <url-of-original-repo>
 > ```
 5. make changes and send PR
+   - Create new branch
    - Make change
    - Add file
    - Commit changes
