@@ -12,7 +12,6 @@ We are testing out open source contribution during our live class
 2. Clone the forked repo to your local machine
 3. CD into the project directory
 4. Setup original repo as upstream 
-5. 
 > ```sh
 > git remote add upstream <url-of-original-repo>
 > ```
