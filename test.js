@@ -8,6 +8,8 @@ const contentArrLength = contentArr.length;
 
 let hasDuplicate = false;
 
+//Loop through the contentArr
+
 for (let i = 0; i < contentArrLength; i++) {
   if (contentArr.indexOf(contentArr[i], i + 1) !== -1) {
     console.log(contentArr[i]);
