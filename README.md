@@ -20,7 +20,7 @@ We are testing out open source contribution during our live class
    - Make change
    - Add file
    - Commit changes
-   - Push changes (git push origin main)
+   - Push changes (git push origin <the-current-branch>)
    - Go to GitHub and click PR again the original (my version)
 
 &copy; [AltSchool Africa](https://www.altschoolafrica.com/)
