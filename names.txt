@@ -37,6 +37,7 @@ Taladeogo Abraham
 Israel Zorzor
 Olawale Mustapha
 Samson Okeji
+Abiodun Omonijo
 David Nyong
 James Uyi
 Oluwaseyi Akinnawo
@@ -64,4 +65,24 @@ Margret Edeh
 Ugo Chiori
 Ilesanmi Oluwatosin Daniel
 Ope Kareem
+ list-update
 Ayo Owolabi
+Akinsulere Olajobi 
+Oluwatosin Lasisi
+Owolabi Babatunde
+Omoregbe Daniel
+Akande Oladayo
+Tabitha Kavyu
+Adelodun Adeola
+Chidozie Inya
+Sylvester Eziagor
+Teniola Olowookere
+Ayodeji Oladeinde
+Odoma Yakub
+Onyia Edna Chidinma
+Alabi Olalekan Emmanuel
+Adegboye Michael Olanrewaju
+Samuel Aniekeme
+Marrilyn Olungweonwi
+Ojoachele Onuh
+main
