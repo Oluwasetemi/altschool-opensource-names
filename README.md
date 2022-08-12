@@ -22,4 +22,5 @@ We are testing out open source contribution during our live class
    - Push changes (git push origin main)
    - Go to GitHub and click PR again the original (my version)
 
-&copy; [AltSchool Africa](https://www.altschoolafrica.com/)
+
+&copy; <a href="https://www.altschoolafrica.com/" target="_blank">AltSchool Africa</a>
