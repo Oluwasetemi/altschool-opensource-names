@@ -43,6 +43,7 @@ David Nyong
 James Uyi
 Oluwaseyi Akinnawo
 Iniobong Benson
+Marvelous Ejiogu
 Adetunji Igbatayo
 Taiye Kadiri
 Oluwakunmi Obaditan
@@ -66,7 +67,6 @@ Margret Edeh
 Ugo Chiori
 Ilesanmi Oluwatosin Daniel
 Ope Kareem
- list-update
 Ayo Owolabi
 Akinsulere Olajobi 
 Oluwatosin Lasisi
@@ -86,4 +86,3 @@ Adegboye Michael Olanrewaju
 Samuel Aniekeme
 Marrilyn Olungweonwi
 Ojoachele Onuh
-main
