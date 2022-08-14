@@ -64,7 +64,11 @@ git checkout adding-new-name
 
 Now open `names.txt` file and add your name to it. 
 
-:warning: Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+:warning: Don't add it at the beginning or end of the file. 
+
+Put it anywhere in between (:pencil2: this will make the merge simple for git to understand). 
+
+Now, save the file.
 
 While in the project directory, if you execute the command `git status`, you'll see there are changes.
 
@@ -111,5 +115,25 @@ Create a pull request
 
 And that's it! Your Pull Request has been submitted! :partying_face:
 Soon a moderator will be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+
+<details>
+
+<summary> <strong>A note on resolving merge conflicts</strong> </summary>
+
+> Read the GitHub docs about resolving merge conflicts [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts).
+
+To avoid fixing merge conflicts, all changes made will have to be discarded.
+
+To get started, sync your forked repository by going to the GitHub page, then click the `sync fork` button. 
+
+Next, discard your commits.
+
+![Screenshot of GitHub repository with the link to sync fork highlighted](https://i.ibb.co/C15MDjR/syncfork.png)
+
+Then make a fresh clone of your newly synced repository and follow the steps from [Clone the repository](#clone-the-repository).
+
+</details>
+
 
 &copy; [AltSchool Africa](https://www.altschoolafrica.com/)
