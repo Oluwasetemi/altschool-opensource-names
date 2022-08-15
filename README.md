@@ -136,4 +136,5 @@ Then make a fresh clone of your newly synced repository and follow the steps fro
 </details>
 
 
-&copy; [AltSchool Africa](https://www.altschoolafrica.com/)
+
+&copy; <a href="https://www.altschoolafrica.com/" target="_blank">AltSchool Africa</a>
