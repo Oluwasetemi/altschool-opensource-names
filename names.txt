@@ -7,6 +7,7 @@ Mamodu Joshua
 Carmen Amba
 Imonikosaye Omafovbe
 Success Chikezie
+Ayoola Paul
 Gideon Anyalewechi
 Oluwaseun Abiola
 Onu Onyedikachi
@@ -48,11 +49,6 @@ Taiye Kadiri
 Ukachi Kelechi Vivian
 Oluwakunmi Obaditan
 Clinton Mekwunye
-<<<<<<< HEAD
-<<<<<<< HEAD
-Ayoola Paul
-=======
-=======
 Oyindamola Kushimo
 >>>>>>> bee1158209d99e6246fc7874c1bbeab28e516dfa
 Okoro Gift
