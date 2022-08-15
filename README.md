@@ -4,11 +4,11 @@
 
 # altschool-opensource-names
 
-We are testing out open source contribution during our live class
+We are testing out open source contribution during our live class!
 
 ## Follow the steps below to get started
 
-1. Fork repo
+1. Fork repo!
 2. Clone the forked repo to your local machine
 3. CD into the project directory
 4. Setup original repo as upstream 
