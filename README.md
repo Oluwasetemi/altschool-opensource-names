@@ -8,7 +8,7 @@ This project aims to introduce AltSchool Africa students to Open Source contribu
 
 ## Fork this repository
 
-
+This will create a local copy of the repository in your GitHub account
 ![Screenshot of GitHub repository with the link to fork highlighted](https://i.ibb.co/X7wFbBx/fork.png)
 
 ## Clone the repository
