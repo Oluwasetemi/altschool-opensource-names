@@ -51,7 +51,6 @@ Olawale Mustapha
 Osayamen Imarhiagbe
 Muritala Sodeeq
 Israel Zorzor
-Olawale Mustapha
 marliyya ubam
 Samson Okeji
 Abiodun Omonijo
@@ -134,7 +133,6 @@ Noibi Abdulrasaq Olamilekan
 Edet Emmanuel Asuquo
 Nwabueze Blessing Ugochi
 Ayomide Joshua Fabiyi
-Titilola Shittu
 Atinuke Wale-Awe
 Opeyemi Ogundeyi
 Sikiru Rashidat
@@ -144,9 +142,8 @@ Adeleke Gloria
 Faith Arowosafe
 Medina Folashade Adeniran
 Kingsley Umujeyan
-Susan Bamgbade 
-Marvellous Chukueggu
 Susan Bamgbade
+Marvellous Chukueggu
 Lewis Tanguhwar
 Obaloluwa Oladunjoye
 Prince Chimaobi
@@ -159,4 +156,3 @@ Oliyide Ibrahim Owolabi
 Osinubi Omobayode Festus
 Theresa Ottah
 Oloruntobi Madamori
-
