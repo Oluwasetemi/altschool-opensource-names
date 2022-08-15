@@ -57,6 +57,9 @@ h1 {
     position: relative;
     top: 200px;
     width: 60%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #names-list {
@@ -86,6 +89,14 @@ h1 {
 #reload-btn:hover {
     background-color: var(--secondary-color-hover);
     transition: all 0.3s ease-in-out;
+}
+
+.refresh{
+    color: red;
+    background-color: white;
+    padding: 0.3rem 1rem;
+    text-align: center;
+    width: 70%;
 }
 
 /* Media Queries */
