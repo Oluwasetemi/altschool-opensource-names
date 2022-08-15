@@ -4,6 +4,7 @@ Oluwasetemi Ojo
 Eloghosa Morgan
 Abdulbasit Yusuf
 Allename Anthony
+Adeola Adetunji
 Emmanuel Oloke
 Mamodu Joshua
 Carmen Amba
@@ -29,7 +30,9 @@ Titilola Oduwole
 Awosise Oluwaseun
 Adetayo Akinsanya Samuel
 Segun Samuel
+Boluwatife Moronkeji
 Adedolapo Olutuyo
+Nwachukwu Esther
 Allen Enyi
 Adenuga Mary
 Okhuarobo Osayuki
@@ -93,10 +96,12 @@ Owolabi Babatunde
 Omoregbe Daniel
 Okoyomoh Adenomoh
 Akande Oladayo
+Bamidele Semilogo
 Raji Omogbolahan Al-ameen
 Adelodun Adeola
 Braide Ibinabo Peace
 Tabitha Kavyu
+Abdul Barri Lawal
 Oluwatuyi Adora
 Chidozie Inya
 Sylvester Eziagor
@@ -108,8 +113,10 @@ Odoma Yakub
 Sarah Aligbe
 Onyia Edna Chidinma
 Alabi Olalekan Emmanuel
+Samuel Akinmarin
 Adegboye Michael Olanrewaju
 Samuel Aniekeme
+Olumese Steve-John Ose
 Oluwatobi Balogun
 Saka Wahab Afolarin
 Marrilyn Olungweonwi
@@ -128,7 +135,7 @@ Umeh Cassandra
 Adeleke Gloria
 Medina Folashade Adeniran
 Kingsley Umujeyan
-Susan Bamgbade
+Susan Bamgbade 
 Obaloluwa Oladunjoye
 Prince Chimaobi
 Onyeanuna Prince
@@ -136,3 +143,4 @@ Nwankwo Kingsley Uzoma
 Peace Ben
 Adebayo Ridwan
 Osinubi Omobayode Festus
+Theresa Ottah
