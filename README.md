@@ -4,7 +4,7 @@
 
 # altschool-opensource-names
 
-We are testing out open source contribution during our live class
+We are testing out open source contribution during our live class!
 
 ## Follow the steps below to get started
 
