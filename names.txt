@@ -92,11 +92,9 @@ Nonso Ugbodu
 Olarotimi Adamson
 Moyinoluwa Adelowo
 Sangobiyi Temiloluwa
-<<<<<<< HEAD
 Salaudeen Mohammed Bashir
-=======
 Oladipo Oluwasegun
->>>>>>> 172cca621dc4319485bde6e7b0904b29f84e33df
+172cca621dc4319485bde6e7b0904b29f84e33df
 Edikan Ekanem
 Hamman Ibrahim Khalil
 Adebusola john oluwatoyin
