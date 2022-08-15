@@ -24,6 +24,7 @@ Alice Eneyo
 Allen Enyi
 Allename Anthony
 Aminu Hussain
+Anietie Akpanumoh
 Atinuke Wale-Awe
 Austin Wopara
 Awosise Oluwaseun
@@ -40,6 +41,7 @@ Bukola Testimony
 Carmen Amba
 Chidozie Inya
 Clinton Mekwunye
+Courage Ujiagbe
 David Nyong
 David Ottache
 Edet Emmanuel Asuquo
@@ -49,6 +51,7 @@ Eloghosa Morgan
 Emelder Okafor
 Emmanuel Oloke
 Emmanuel kabari
+Esther Ibom
 Faith Arowosafe
 Gideon Aleonogwe
 Gideon Anyalewechi
@@ -60,9 +63,11 @@ Imonikosaye Omafovbe
 Iniobong Benson
 Israel Ademola
 Israel Zorzor
+Iyayi Victor
 Jael-Praise David
 James Uyi
 Jamilu Jibrilla
+Jason Kojo Simtema
 Jubril Adeyi
 Kelechi Joanna Ojelabi
 Kingsley Umujeyan
@@ -77,6 +82,7 @@ Marvelous Ejiogu
 Matthew Mosimabale Tarfa
 Medina Folashade Adeniran
 Mgbemena Chimaobi Ephraim
+Michael Abaniwo
 Michael Ashibuogwu
 Micheal Adeniran
 Motunrayo Ilawole
@@ -88,6 +94,7 @@ Nonso Ugbodu
 Nwabueze Blessing Ugochi
 Nwachukwu Esther
 Nwankwo Kingsley Uzoma
+Nzubechi Ahamefula
 Obaloluwa Oladunjoye
 Odoma Yakub
 Odunayo Davies Idowu
@@ -150,6 +157,7 @@ Sylvester Eziagor
 Tabitha Kavyu
 Taiye Kadiri
 Taladeogo Abraham
+Temitope Agbaje
 Teniola Olowookere
 Theresa Ottah
 Titilola Oduwole
