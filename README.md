@@ -3,7 +3,11 @@
 ![AltSchool Africa Logo](./AltSchool-dark.svg#gh-dark-mode-only)
 
 # Open Source Playground
-
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/stargazers"><img src="https://img.shields.io/github/stars/Oluwasetemi/altschool-opensource-names" alt="Stars Badge"/></a>
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/network/members"><img src="https://img.shields.io/github/forks/Oluwasetemi/altschool-opensource-names" alt="Forks Badge"/></a>
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/pulls"><img src="https://img.shields.io/github/issues-pr/Oluwasetemi/altschool-opensource-names" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/issues"><img src="https://img.shields.io/github/issues/Oluwasetemi/altschool-opensource-names" alt="Issues Badge"/></a>
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Oluwasetemi/altschool-opensource-names?color=2b9348"></a>
 This project aims to introduce AltSchool Africa students to Open Source contribution. To get started, follow the steps below.
 
 ## Fork this repository
