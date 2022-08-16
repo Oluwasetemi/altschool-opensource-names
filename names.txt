@@ -10,6 +10,7 @@ Jason Kojo Simtema
 Adeola Adetunji
 Emmanuel Oloke
 Mamodu Joshua
+Shoyombo Gabriel Ayomide
 Carmen Amba
 Imonikosaye Omafovbe
 Success Chikezie
@@ -57,6 +58,7 @@ Iyayi Victor
 Oladeji Adeshina
 Jael-Praise David
 Taladeogo Abraham
+Damilola Samuel
 Michael Abaniwo
 Olawale Mustapha
 Osayamen Imarhiagbe
@@ -82,6 +84,7 @@ Ujunwa Chibueze Albert
 Oluwakunmi Obaditan
 Michael Ashibuogwu
 Clinton Mekwunye
+Lilian Anya Galadima
 Oyindamola Kushimo
 Okoro Gift
 Emmanuel kabari
@@ -98,6 +101,7 @@ Motunrayo Ilawole
 Nonso Ugbodu
 Olarotimi Adamson
 Moyinoluwa Adelowo
+Onuche Uhiene Achema
 Sangobiyi Temiloluwa
 Salaudeen Mohammed Bashir
 Oladipo Oluwasegun
@@ -123,6 +127,11 @@ Oluwatosin Lasisi
 Odunayo Davies Idowu
 Owolabi Babatunde
 Omoregbe Daniel
+Taiwo Stephen Opeyemi
+Oluwatobiloba Adesokan Samuel
+Elue Michael
+Dahunsi Timilehin
+Osunronbi Okikiola Qudus
 Okoyomoh Adenomoh
 Akande Oladayo
 Bamidele Semilogo
@@ -136,8 +145,10 @@ Abdul Barri Lawal
 Oluwatuyi Adora
 Chidozie Inya
 Sylvester Eziagor
-Teniola Olowookere
 Philip Nwachukwu
+Taiwo Stephen Opeyemi
+Nneka Chukwuemeka
+Ikemefuna Adaeze
 Peter Abolude
 Teniola Olowookere
 Yvonne Dien
@@ -156,6 +167,7 @@ Olumese Steve-John Ose
 Oluwatobi Balogun
 Saka Wahab Afolarin
 Babayemi Precious Olamide
+Ibraheem Muhammadawwal
 Precious Saiki
 Marrilyn Olungweonwi
 Ojoachele Onuh
@@ -202,3 +214,4 @@ Oloruntobi Madamori
 Kofoworola Oyinlola Cole
 Glory Yusuf
 Alabi Ololade
+Abdulrazzaq Fahd
