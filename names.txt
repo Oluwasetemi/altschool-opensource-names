@@ -79,10 +79,6 @@ Oluwatuyi Adora
 Chidozie Inya
 Sylvester Eziagor
 Teniola Olowookere
-<<<<<<< HEAD
-Nzubechi Ahamefula
-
-=======
 Yvonne Dien
 Ayodeji Oladeinde
 Odoma Yakub
@@ -100,5 +96,6 @@ Patrick Aziken
 Umeh Cassandra
 Medina Folashade Adeniran
 Kingsley Umujeyan
+Nzubechi Ahamefula
 Susan Bamgbade 
->>>>>>> 0d65abafe560a201f638943773d86a7121ce35d9
+
