@@ -1,4 +1,5 @@
 Olayinka Daniel
+TechMomma Okonkwo
 Adeyemi Akinyemi
 Ephraim Haruna Mamman
 Lawal Ayobami
@@ -8,6 +9,7 @@ Sharafdeen Quadri
 Eloghosa Morgan
 Abdulbasit Yusuf
 Allename Anthony
+Blessing Nfeh
 Jason Kojo Simtema
 Adeola Adetunji
 Emmanuel Oloke
@@ -24,6 +26,7 @@ Raphael Ibrahim
 Popoola Emmanuel
 Gideon Aleonogwe
 Oluwaseun Abiola
+Ahachi John
 Emelder Okafor
 Onu Onyedikachi
 Fatimah Badmus
@@ -52,6 +55,7 @@ Nwachukwu Esther
 Allen Enyi
 Temitope Agbaje
 Adenuga Mary
+Chibuokem Egbuchulam
 Okhuarobo Osayuki
 Ayibakepreye Omusuku
 Adeniyi Olanrewaju Mark
@@ -78,6 +82,7 @@ Osayamen Imarhiagbe
 Muritala Sodeeq
 Kalejaiye Tolulope
 Israel Zorzor
+Faboya Basil Korede
 Marliyya ubam
 Samson Okeji
 Abiodun Omonijo
@@ -151,6 +156,7 @@ Robert Adoga
 Taiwo Stephen Opeyemi
 Oluwatobiloba Adesokan Samuel
 Elue Michael
+Owojori Micheal
 Dahunsi Timilehin
 Osunronbi Okikiola Qudus
 Okoyomoh Adenomoh
@@ -224,6 +230,7 @@ Opeyemi Ogundeyi
 Sikiru Rashidat
 Shittu Ayomide
 Mayowa O. Ojo
+Osika Martha Ochuko
 Patrick Aziken
 Umeh Cassandra
 Titilayo Adeyemi
@@ -256,6 +263,7 @@ Onyeanuna Prince
 Nwankwo Kingsley Uzoma
 Nzubechi Ahamefula
 Peace Ben
+Awonuga Oluwapelumi R.
 Abegunde Olanrewaju
 Ebeledike Arinze Stanley
 Adebayo Ridwan
@@ -272,6 +280,7 @@ Oyediran Paul
 Oloruntobi Madamori
 Afabor Michael Onafome
 Kofoworola Oyinlola Cole
+Olagunju Oluwakolade 
 Glory Yusuf
 Olutayo Babem
 Alabi Ololade
@@ -281,3 +290,5 @@ Achebe Okechukwu Peter
 George Owoh
 Bakare Rilwan Temitope
 Nmesoma Olivia Akabogu
+Aniekan Sunday Edet
+SnrDev Adeyanju-Fawaz
