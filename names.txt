@@ -4,14 +4,18 @@ Adeyemi Akinyemi
 Ephraim Haruna Mamman
 Lawal Ayobami
 Oluwasetemi Ojo
+Onyegbuchunam Julian Ifesiokwu
 Sonde Omobolaji Hameen
 Sharafdeen Quadri
 Eloghosa Morgan
+Daniel Amadi
 Abdulbasit Yusuf
 Allename Anthony
+Blessing Nfeh
 Jason Kojo Simtema
 Adeola Adetunji
 Emmanuel Oloke
+Frank Joseph
 Victor Abbah
 Mamodu Joshua
 Shoyombo Gabriel Ayomide
@@ -25,10 +29,12 @@ Raphael Ibrahim
 Popoola Emmanuel
 Gideon Aleonogwe
 Oluwaseun Abiola
+Ahachi John
 Emelder Okafor
 Onu Onyedikachi
 Fatimah Badmus
 Sheriff Adekunle Tajudeen
+Aderemi Adesoji
 Alice Eneyo
 Micheal Adeniran
 Aminu Hussain
@@ -53,6 +59,7 @@ Nwachukwu Esther
 Allen Enyi
 Temitope Agbaje
 Adenuga Mary
+Chibuokem Egbuchulam
 Okhuarobo Osayuki
 Ayibakepreye Omusuku
 Adeniyi Olanrewaju Mark
@@ -153,11 +160,13 @@ Robert Adoga
 Taiwo Stephen Opeyemi
 Oluwatobiloba Adesokan Samuel
 Elue Michael
+Owojori Micheal
 Dahunsi Timilehin
 Osunronbi Okikiola Qudus
 Okoyomoh Adenomoh
 Akande Oladayo
 Charles Obuzor
+Joseph C Ofili
 Amarachi Joanna Egbuna
 Bamidele Semilogo
 Simon Gideon
@@ -170,6 +179,7 @@ Abdul Barri Lawal
 Oluwatuyi Adora
 Chidozie Inya
 Sylvester Eziagor
+Kingsley Sado
 Ikemefuna Adaeze Gift
 Sam Abasifreke
 Nosike Pascal C
@@ -187,6 +197,7 @@ Victor Bernard Patrick
 Adeliyi Olumide
 Yvonne Dien
 Anietie Akpanumoh
+Adaobi Chuma-Okeke
 Abdulmuizz Abubakar
 Ayodeji Oladeinde
 Odoma Yakub
@@ -226,12 +237,14 @@ Opeyemi Ogundeyi
 Sikiru Rashidat
 Shittu Ayomide
 Mayowa O. Ojo
+Osika Martha Ochuko
 Patrick Aziken
 Umeh Cassandra
 Titilayo Adeyemi
 Chukwunonso Okafor
 Adeleke Gloria
 Faith Arowosafe
+Tobiloba Ibraheem
 Medina Folashade Adeniran
 Ojonuba Jeremiah Boyi
 Kingsley Umujeyan
@@ -258,22 +271,25 @@ Onyeanuna Prince
 Nwankwo Kingsley Uzoma
 Nzubechi Ahamefula
 Peace Ben
+Awonuga Oluwapelumi R.
 Abegunde Olanrewaju
 Ebeledike Arinze Stanley
 Adebayo Ridwan
+Olatujoye Olubunmi
 Sanusi Waris A
 Adeleye Opeyemi
 David Ottache
 Oliyide Ibrahim Owolabi
 Osinubi Omobayode Festus
 Theresa Ottah
-Nnadiukwu Chidiebere Oscar 
+Nnadiukwu Chidiebere Oscar
 Ojima Grace Ohaba
 Oloruntobi Madamori
 Oyediran Paul
 Oloruntobi Madamori
 Afabor Michael Onafome
 Kofoworola Oyinlola Cole
+Olagunju Oluwakolade 
 Glory Yusuf
 Olutayo Babem
 Alabi Ololade
@@ -283,4 +299,6 @@ Achebe Okechukwu Peter
 George Owoh
 Bakare Rilwan Temitope
 Abdullahi Kwapke Chindo
-
+Nmesoma Olivia Akabogu
+Aniekan Sunday Edet
+SnrDev Adeyanju-Fawaz

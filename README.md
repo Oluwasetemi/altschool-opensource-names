@@ -124,6 +124,11 @@ Soon a moderator will be merging all your changes into the main branch of this p
 
 <details>
 
+
+
+> Please read further if you have any conflicts or your pull request refuses to go through.
+
+
 <summary> <strong>A note on resolving merge conflicts</strong> </summary>
 
 > Read the GitHub docs about resolving merge conflicts [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts).
