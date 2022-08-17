@@ -28,8 +28,10 @@ Omitogun Olamide
 Gideon Anyalewechi
 Raphael Ibrahim
 Popoola Emmanuel
+MAxwell Ahmadu
 Gideon Aleonogwe
 Oluwaseun Abiola
+Francis Theophilous
 Ahachi John
 Emelder Okafor
 Onu Onyedikachi
@@ -41,6 +43,7 @@ Micheal Adeniran
 Aminu Hussain
 Pelumi Olukayode
 Ejiroghene Laurel Dafe
+Oluwatimilehin Akapo
 Salami Folarin
 Adeyomola Kazeem
 Kelechi Joanna Ojelabi
@@ -108,12 +111,14 @@ Jude Okeleke
 Ukachi Kelechi Vivian
 Ujunwa Chibueze Albert
 Oluwakunmi Obaditan
+Aliyu Gambo Aliyu
 Michael Ashibuogwu
 Clinton Mekwunye
 Lilian Anya Galadima
 Oyindamola Kushimo
 Okoro Gift
 Emmanuel kabari
+Tanimu Haruna
 Nnah Ifeoma Goodness
 Uwaoma Cyrus
 Blessing Peter
@@ -152,6 +157,7 @@ Gladys Oviawe
 Ayo Owolabi
 Akinsulere Olajobi
 Oseghale Eseosa Favour
+Sarah Daniel
 Madamori Joyce
 Oluwatosin Lasisi
 Sifon Solomon
@@ -167,6 +173,7 @@ Dahunsi Timilehin
 Osunronbi Okikiola Qudus
 Okoyomoh Adenomoh
 Akande Oladayo
+Odufejo Ufoma Ibukunoluwa
 Charles Obuzor
 Joseph C Ofili
 Amarachi Joanna Egbuna
@@ -185,6 +192,7 @@ Kingsley Sado
 Ikemefuna Adaeze Gift
 Sam Abasifreke
 Nosike Pascal C
+oyeka nonso christopher
 Olawole Jethro
 Desire Oluwarotimi
 Philip Nwachukwu
@@ -197,6 +205,7 @@ Zaheed Beita
 Ashibuogwu Williams
 Victor Bernard Patrick
 Adeliyi Olumide
+Samuel Oso
 Yvonne Dien
 Anietie Akpanumoh
 Adaobi Chuma-Okeke
@@ -212,6 +221,7 @@ Sulaiman Yahaya Adamu
 Alabi Olalekan Emmanuel
 Samuel Akinmarin
 Adegboye Michael Olanrewaju
+Aminat Ahmed
 Samuel Aniekeme
 Success Michael
 Olumese Steve-John Ose
@@ -306,3 +316,5 @@ Nmesoma Olivia Akabogu
 Aniekan Sunday Edet
 SnrDev Adeyanju-Fawaz
 Adegoke Abdsalam Ajala
+Hameed Owoade
+John Adekoya Adebisi
