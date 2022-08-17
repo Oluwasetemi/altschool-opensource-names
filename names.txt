@@ -148,14 +148,13 @@ Olayinka Fagbemi
 Ariyo Muqadas
 Ilesanmi Oluwatosin Daniel
 Ope Kareem
-<<<<<<< HEAD
 David Olaleye
-=======
 Gladys Oviawe
 Ayo Owolabi
 Akinsulere Olajobi
 Oseghale Eseosa Favour
 Madamori Joyce
+Akinsulere Olajobi 
 Oluwatosin Lasisi
 Sifon Solomon
 Odunayo Davies Idowu
@@ -308,4 +307,3 @@ Abdullahi Kwapke Chindo
 Nmesoma Olivia Akabogu
 Aniekan Sunday Edet
 SnrDev Adeyanju-Fawaz
-David Olaleye
