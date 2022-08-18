@@ -43,6 +43,12 @@ h1 {
     line-height: 1.3em;
 }
 
+#list-wrapper > h1:hover{
+    color:#ffff;
+    text-shadow: 2px 2px 2px #0c0244;
+    
+}
+
 #logo {
     margin: 1rem 2rem;
 }
