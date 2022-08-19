@@ -23,14 +23,10 @@ const findDuplicates = (list) => {
 
 const contentString = fs.readFileSync("./names.txt", { encoding: "utf-8" });
 
-const contentArray = contentString.split("\n");
-
-const contentArrayLength = contentArray.length;
+const contentArray = contentString.toLowerCase().split("\r\n");
 
 let hasDuplicate = hasDuplicates(contentArray);
 let hasDuplicateArray = findDuplicates(contentArray);
-console.log(hasDuplicateArray)
-
-
+console.log(hasDuplicateArray);
 
 console.log(hasDuplicate ? "Duplicates exist" : "No duplicate found");
