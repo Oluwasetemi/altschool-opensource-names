@@ -2,6 +2,7 @@ Olayinka Daniel
 TechMomma Okonkwo
 Adeyemi Akinyemi
 Ephraim Haruna Mamman
+Michael Chijioke Nweke
 Lawal Ayobami
 Oluwasetemi Ojo
 Onyegbuchunam Julian Ifesiokwu
@@ -9,6 +10,7 @@ Sonde Omobolaji Hameen
 Sharafdeen Quadri
 Eloghosa Morgan
 Daniel Amadi
+Adeyinka Michael
 Abdulbasit Yusuf
 Allename Anthony
 Blessing Nfeh
@@ -56,6 +58,7 @@ Titilola Oduwole
 Awosise Oluwaseun
 Adetayo Akinsanya Samuel
 Segun Samuel
+Owolabi Segun
 Boluwatife Moronkeji
 Adedolapo Olutuyo
 Juliana Micheal-Echezona
@@ -73,7 +76,8 @@ Shittu Saheed Adewale
 Maxwell Emmanuel
 Jamilu Jibrilla
 Olaegbe Abdul-Rahmon
-Matthew Mosimabale Tarfa
+Matthew Mosimabale Tarfa 
+AbdulRahman Irede Oke
 Adelakun Wasiu Olaiya
 Israel Ademola
 Iyayi Victor
@@ -82,6 +86,7 @@ Bukar Mamadu
 Jael-Praise David
 Anita Idemudia
 Taladeogo Abraham
+Hafiz Adeyinka Junaid
 Damilola Samuel
 Michael Abaniwo
 Olawale Mustapha
@@ -94,6 +99,7 @@ Faboya Basil Korede
 Marliyya ubam
 Samson Okeji
 Abiodun Omonijo
+Egu Chinedu
 David Nyong
 James Uyi
 Yusuf Salim
@@ -102,6 +108,7 @@ Mgbemena Chimaobi Ephraim
 Lucious Charchea Simon
 Oluwaseyi Akinnawo
 Sam Abasifreke
+Ekunola Paul
 Iniobong Benson
 Marvelous Ejiogu
 Olasoji Olamide
@@ -155,12 +162,17 @@ Ariyo Muqadas
 Momoh Ridwan Ohiani
 Ilesanmi Oluwatosin Daniel
 Ope Kareem
+David Olaleye
 Gladys Oviawe
+Mary Omode
 Ayo Owolabi
-Akinsulere Olajobi
+Noah Useghan
 Oseghale Eseosa Favour
+Jonah C. Uka
 Sarah Daniel
 Madamori Joyce
+Akinsulere Olajobi 
+Olumide Gbadegesin
 Oluwatosin Lasisi
 Sifon Solomon
 Odunayo Davies Idowu
@@ -321,3 +333,7 @@ Adegoke Abdsalam Ajala
 Hameed Owoade
 John Adekoya Adebisi
 Adepitan oyinlola
+Taofeek ogungbade
+Marvellous chimaraoke
+Omokolade Adelekan
+
