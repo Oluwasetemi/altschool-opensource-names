@@ -44,6 +44,7 @@ Alice Eneyo
 Micheal Adeniran
 Aminu Hussain
 Pelumi Olukayode
+Amarachi Celine Arinze
 Ejiroghene Laurel Dafe
 Oluwatimilehin Akapo
 Salami Folarin
@@ -58,6 +59,7 @@ Titilola Oduwole
 Awosise Oluwaseun
 Adetayo Akinsanya Samuel
 Segun Samuel
+Owolabi Segun
 Boluwatife Moronkeji
 Adedolapo Olutuyo
 Juliana Micheal-Echezona
@@ -98,6 +100,7 @@ Faboya Basil Korede
 Marliyya ubam
 Samson Okeji
 Abiodun Omonijo
+Egu Chinedu
 David Nyong
 James Uyi
 Yusuf Salim
@@ -106,6 +109,7 @@ Mgbemena Chimaobi Ephraim
 Lucious Charchea Simon
 Oluwaseyi Akinnawo
 Sam Abasifreke
+Ekunola Paul
 Iniobong Benson
 Marvelous Ejiogu
 Olasoji Olamide
@@ -159,13 +163,17 @@ Ariyo Muqadas
 Momoh Ridwan Ohiani
 Ilesanmi Oluwatosin Daniel
 Ope Kareem
+David Olaleye
 Gladys Oviawe
+Mary Omode
 Ayo Owolabi
-Akinsulere Olajobi
 Noah Useghan
 Oseghale Eseosa Favour
+Jonah C. Uka
 Sarah Daniel
 Madamori Joyce
+Akinsulere Olajobi 
+Olumide Gbadegesin
 Oluwatosin Lasisi
 Sifon Solomon
 Odunayo Davies Idowu
@@ -316,6 +324,7 @@ Abdulrazzaq Fahd
 Achebe Okechukwu Peter
 George Owoh
 Bakare Rilwan Temitope
+Owhologbo Daniel Oghenemaro
 Oritsedere Precious Oghenerukevwe
 Abdullahi Kwapke Chindo
 Nmesoma Olivia Akabogu
@@ -329,3 +338,4 @@ Taofeek ogungbade
 Marvellous chimaraoke
 Omokolade Adelekan
 Ayeni Olusola Jumoke
+Damilola Ogun
