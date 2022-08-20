@@ -4,6 +4,12 @@
 
 # Open Source Playground
 
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/stargazers"><img src="https://img.shields.io/github/stars/Oluwasetemi/altschool-opensource-names" alt="Stars Badge"/></a>
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/network/members"><img src="https://img.shields.io/github/forks/Oluwasetemi/altschool-opensource-names" alt="Forks Badge"/></a>
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/pulls"><img src="https://img.shields.io/github/issues-pr/Oluwasetemi/altschool-opensource-names" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/issues"><img src="https://img.shields.io/github/issues/Oluwasetemi/altschool-opensource-names" alt="Issues Badge"/></a>
+<a href="https://github.com/Oluwasetemi/altschool-opensource-names/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Oluwasetemi/altschool-opensource-names?color=2b9348"></a>
+
 This project aims to introduce AltSchool Africa students to Open Source contribution. To get started, follow the steps below.
 
 ## Fork this repository
@@ -95,12 +101,13 @@ Push your changes using the command `git push`:
 ```sh
 git push origin -u <your-branch-name>
 ```
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+replacing `<your-branch-name>` with the name of the branch you created earlier.
 
 As per our example, the command will be:
 
 ```sh
-git push origin -u adding-new-name
+git push -u origin adding-new-name
 ```
 
 ## Submit your changes for review
@@ -116,8 +123,9 @@ Create a pull request
 And that's it! Your Pull Request has been submitted! :partying_face:
 Soon a moderator will be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
-
 <details>
+
+> Please read further if you have any conflicts or your pull request refuses to go through.
 
 <summary> <strong>A note on resolving merge conflicts</strong> </summary>
 
@@ -134,7 +142,5 @@ Next, discard your commits.
 Then make a fresh clone of your newly synced repository and follow the steps from [Clone the repository](#clone-the-repository).
 
 </details>
-
-
 
 &copy; <a href="https://www.altschoolafrica.com/" target="_blank">AltSchool Africa</a>
