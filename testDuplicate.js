@@ -1,23 +1,32 @@
 /*
 This file loops through the names in names.txt and prints
-duplicates 
+duplicates
 */
 
 const fs = require("fs");
 
+const hasDuplicates = (arr) => arr.length !== new Set(arr).size;
+
+const findDuplicates = (list) => {
+  list.sort(); // alters original array
+  let ans = [];
+
+  for (let i = 0; i < list.length; i++) {
+    if (list[i] === list[i + 1]) {
+      if (ans[ans.length - 1] !== list[i]) {
+        ans.push(list[i]);
+      }
+    }
+  }
+  return ans;
+};
+
 const contentString = fs.readFileSync("./names.txt", { encoding: "utf-8" });
 
-const contentArray = contentString.split("\r\n");
+const contentArray = contentString.toLowerCase().split("\r\n");
 
-const contentArrayLength = contentArray.length;
-
-let hasDuplicate = false;
-
-for (let i = 0; i < contentArrayLength; i++) {
-  if (contentArray.indexOf(contentArray[i], i + 1) !== -1 && contentArray[i].trim() !== "") {
-    console.log(contentArray[i]);
-    hasDuplicate = true;
-  }
-}
+let hasDuplicate = hasDuplicates(contentArray);
+let hasDuplicateArray = findDuplicates(contentArray);
+console.log(hasDuplicateArray);
 
 console.log(hasDuplicate ? "Duplicates exist" : "No duplicate found");
