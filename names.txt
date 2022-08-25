@@ -168,10 +168,8 @@ Adebusola john oluwatoyin
 Jubril Adeyi
 Onajobi James
 Margret Edeh
-<<<<<<< HEAD
 Ugo Chiori
 Victor Ubere
-=======
 Bernard Kwame Solodzi
 Ugo Chiori
 Ilesanmi Oluwatosin Daniels
@@ -367,4 +365,3 @@ Ayeni Olusola Jumoke
 Precious Eseose Agboinghale
 Ajayi Emmanuel
 Damilola Ogun
->>>>>>> 7c12acf12f8f326edfefd34a90c1034816be1920
