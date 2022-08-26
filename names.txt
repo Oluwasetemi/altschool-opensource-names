@@ -52,7 +52,6 @@ Gideon Anyalewechi
 Linda Akorfa Abotsigah
 Raphael Ibrahim
 Popoola Emmanuel
-MAxwell Ahmadu
 Gideon Aleonogwe
 Elizabeth Agwa
 Oluwaseun Abiola
@@ -213,7 +212,6 @@ Sifon Solomon
 Odunayo Davies Idowu
 Owolabi Babatunde
 Omoregbe Daniel
-Akande Oladayo
 Nwabuisi Chidinma Cindy
 Robert Adoga
 Taiwo Stephen Opeyemi
@@ -399,4 +397,3 @@ Akinlolu Gbemisola John
 Okesanjo Quamarudeen Okedayo
 Habeeb Oluwagbenga Bankole
 GAruba Abdul Azeez.
-
