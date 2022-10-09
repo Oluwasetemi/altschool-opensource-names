@@ -1,0 +1,554 @@
+[33mcommit 4eae9a64bba325b4a1240b9efc92b8ed2b88b725[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtesting[m[33m)[m
+Author: Gbose(eezzy) <eezzy2k3@yahoo.com>
+Date:   Sun Aug 7 16:00:29 2022 +0100
+
+    added my name
+
+[33mcommit fabe16457a279f92d16542ffed48ef5b783aab48[m
+Merge: 1f28a6e eebaf0b
+Author: Olúwásetèmi <setemiojo@gmail.com>
+Date:   Sun Aug 7 08:01:06 2022 -0500
+
+    Merge pull request #93 from Psalmzee/main
+    
+    Added my name to names.txt file
+
+[33mcommit eebaf0beffb4289c309543fb87fec3908e2f1ca8[m
+Author: Samson Okeji <engrsamsonokeji@gmail.com>
+Date:   Sun Aug 7 13:22:31 2022 +0100
+
+    Added my name to names.txt file
+
+[33mcommit 1f28a6e55320d05b6247e0fc7ebae2a29db6f0d9[m
+Merge: 8690bda e656fc6
+Author: Olúwásetèmi <setemiojo@gmail.com>
+Date:   Sun Aug 7 05:09:22 2022 -0500
+
+    Merge pull request #86 from walemust/main
+    
+    added my name
+
+[33mcommit e656fc64321c5603d50673dde7fc9bf60e159010[m
+Merge: d1cca8f 8690bda
+Author: olawale mustapha <52992651+walemust@users.noreply.github.com>
+Date:   Sun Aug 7 10:55:27 2022 +0100
+
+    Merge branch 'Oluwasetemi:main' into main
+
+[33mcommit d1cca8f48ac9f6ffffa528ee85c8b2800bf2d07f[m
+Author: Olawale Mustapha <walemust28@gmail.com>
+Date:   Sun Aug 7 10:53:31 2022 +0100
+
+    added my name
+
+[33mcommit 8690bda4a38367c31f8b6817a48cfc039c67882f[m
+Merge: c628459 d75189f
+Author: Olúwásetèmi <setemiojo@gmail.com>
+Date:   Sun Aug 7 04:38:06 2022 -0500
+
+    Merge pull request #78 from Adeshina3002/main
+    
+    added my name to the list
+
+[33mcommit d75189fa4e8f1b86a56609fb888ff476afb17da5[m
+Merge: 34c8686 c628459
+Author: Adeshina3002 <oladejishina@gmail.com>
+Date:   Sun Aug 7 09:48:17 2022 +0100
+
+    added my name to the list
+
+[33mcommit c628459b1fdda24de958896b3258ac884f94d515[m
+Merge: 7cfb001 44cba70
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sun Aug 7 09:32:58 2022 +0100
+
+    Merge pull request #67 from jamilu-jibrilla/main
+    
+    Update names.txt
+
+[33mcommit 44cba7023843e181afe5cf01db99ffcb4c5d142e[m
+Author: jamilu jibrilla <jamilujibrilla01@gmail.com>
+Date:   Sun Aug 7 09:18:56 2022 +0100
+
+    Update names.txt
+    
+    Fixing a typo
+
+[33mcommit 2b908b4394663c8c5ecfebba4acac1bad9918064[m
+Merge: 5c24fe9 7cfb001
+Author: jamilu jibrilla <jamilujibrilla01@gmail.com>
+Date:   Sun Aug 7 09:15:47 2022 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit 7cfb001c0d7f927548116ecd866ffc000c3d2608[m
+Merge: 3a05c73 4c35ded
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sun Aug 7 09:11:44 2022 +0100
+
+    Merge pull request #18 from TaladeogoA/main
+    
+    Taladeogo addded her name
+
+[33mcommit 4c35deda56dabda4c7cedbaf1100ee1f62452aa0[m
+Merge: c2cb8c1 3a05c73
+Author: Taladeogo Abraham <103685058+TaladeogoA@users.noreply.github.com>
+Date:   Sun Aug 7 01:11:26 2022 -0700
+
+    Merge branch 'Oluwasetemi:main' into main
+
+[33mcommit 3a05c73d78fc36d349e292349d15eca2d7625101[m
+Merge: 2836aef 1fb0408
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sun Aug 7 08:47:52 2022 +0100
+
+    Merge pull request #17 from Carmenbelle/main
+    
+    I have added my name
+
+[33mcommit 34c86863a92e556a216a92051c25c9cd3c76cae5[m
+Author: Adeshina3002 <oladejishina@gmail.com>
+Date:   Sun Aug 7 08:46:04 2022 +0100
+
+    added my name to the list
+
+[33mcommit c2cb8c141c898072f182f66a44a4ad51ebe61613[m
+Merge: db6670f 2836aef
+Author: Taladeogo Abraham <103685058+TaladeogoA@users.noreply.github.com>
+Date:   Sun Aug 7 00:45:52 2022 -0700
+
+    Merge branch 'main' into main
+
+[33mcommit 2836aef456ee40f569d1e45f59ae5567b2a83eeb[m
+Merge: df93c16 2621f2c
+Author: Success Chikezie <99509553+Succynice@users.noreply.github.com>
+Date:   Sun Aug 7 08:26:10 2022 +0100
+
+    Merge pull request #34 from adekunleoloduero/sheriff_adekunle_tajudeen
+    
+    Added my name to the list of names
+
+[33mcommit 2621f2ca53ceaf3e9faa72d3a7912cdf63c99118[m
+Author: Sheriff Adekunle Tajudeen <dnexteinstein2@gmail.com>
+Date:   Sun Aug 7 08:20:43 2022 +0100
+
+    Removed duplicate names
+
+[33mcommit 1b115c22efc66e2bab718a6ca3cc228a142198b3[m
+Merge: b474bed df93c16
+Author: Sheriff Adekunle Tajudeen <dnexteinstein2@gmail.com>
+Date:   Sun Aug 7 08:12:41 2022 +0100
+
+    3rd update
+
+[33mcommit df93c16a76ce66f376c26717a1c36029588c7fbd[m
+Merge: e722cb7 2b715fd
+Author: Success Chikezie <99509553+Succynice@users.noreply.github.com>
+Date:   Sun Aug 7 08:04:31 2022 +0100
+
+    Merge pull request #74 from was-coder/main
+    
+    feat:Add my name to the file
+
+[33mcommit 2b715fd2ec619c282a759592f43f45f1453d3a14[m
+Author: Abdu Wasi' Adelakun <wasleadwears4u2c@gmail.com>
+Date:   Sun Aug 7 08:00:25 2022 +0100
+
+    chore: Remove unneccessary lines
+
+[33mcommit b474bedbe53ae247b5951d1100a7ac5e38c46038[m
+Merge: 0cbe340 e722cb7
+Author: Sheriff Adekunle Tajudeen <dnexteinstein2@gmail.com>
+Date:   Sun Aug 7 07:46:02 2022 +0100
+
+    Second merge confict resolution
+
+[33mcommit 5f49d8777f5c903b910317f6b4643852a8d4a561[m
+Merge: 8da4b5b e722cb7
+Author: Abdu Wasi' Adelakun <wasleadwears4u2c@gmail.com>
+Date:   Sun Aug 7 07:38:45 2022 +0100
+
+    chore: Resolve conflict
+
+[33mcommit 8da4b5b1b5d3314f20e23595c702998a81fa8ffd[m
+Author: Abdu Wasi' Adelakun <wasleadwears4u2c@gmail.com>
+Date:   Sun Aug 7 07:29:59 2022 +0100
+
+    feat:Add my name to the file
+
+[33mcommit e722cb7a9a80865ed10745ccd21b2ed066164e0d[m
+Merge: e4728df 67b1c25
+Author: Success Chikezie <99509553+Succynice@users.noreply.github.com>
+Date:   Sun Aug 7 07:24:07 2022 +0100
+
+    Merge pull request #73 from Israel025/main
+    
+    Added my name
+
+[33mcommit 67b1c25150c71fc9dbb046a24a9ea3543abcbe6e[m
+Author: Israel Ademola <israeltademola@gmail.com>
+Date:   Sun Aug 7 07:12:46 2022 +0100
+
+    Added my name
+
+[33mcommit 0cbe340b1a2b142d48581f32e488fbf530c3e927[m
+Merge: ac16183 e4728df
+Author: Sheriff Adekunle Tajudeen <dnexteinstein2@gmail.com>
+Date:   Sun Aug 7 06:48:58 2022 +0100
+
+    Resolved merge conflict
+
+[33mcommit e4728df85b337bada6b81766b947aff1bdda689c[m
+Merge: 3cbe1c2 b0a3856
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sun Aug 7 06:19:18 2022 +0100
+
+    Merge pull request #71 from Youngtechie/main
+    
+    Adding Abdul-Rahmon to names.txt file
+
+[33mcommit b0a38560898b59abaaf2eb902f9bbeb996eb0043[m
+Author: Youngtechie <olaegbeolamilekan1@gmail.com>
+Date:   Sun Aug 7 06:12:21 2022 +0100
+
+    Adding Abdul-Rahmon to names.txt file
+
+[33mcommit 5c24fe95834bac567012e74dd698ae7825fb88ee[m
+Author: jamilu jibrilla <jamilujibrilla01@gmail.com>
+Date:   Sun Aug 7 03:07:13 2022 +0100
+
+    Update names.txt
+    
+    Added my name to the names.txt file
+
+[33mcommit 3cbe1c2491e9998eae0f3ea2ecfea2e2e21bb309[m
+Merge: da548ea f73d5e9
+Author: Olúwásetèmi <setemiojo@gmail.com>
+Date:   Sat Aug 6 18:38:11 2022 -0500
+
+    Merge pull request #63 from ghostdev-lab/main
+    
+    Updated the names.txt file
+
+[33mcommit f73d5e911c3fd1283d2b2e0abf30c578294a2c1e[m
+Merge: 1685454 da548ea
+Author: Allen Enyi <ekeneenyi@gmail.com>
+Date:   Sun Aug 7 00:33:55 2022 +0100
+
+    Updated the names.txt file
+
+[33mcommit da548ea5c87f90418b031c4ceb1bb60cc0d9e758[m
+Merge: 6fb6b0f 29da36e
+Author: Olúwásetèmi <setemiojo@gmail.com>
+Date:   Sat Aug 6 18:28:04 2022 -0500
+
+    Merge pull request #65 from tanitoluwam/main
+    
+    Mary Adenuga added her name
+
+[33mcommit 29da36ea8ab455de1b7b86d3e0daefc8c19ab3b4[m
+Merge: 53fbc84 6fb6b0f
+Author: tanitoluwam <91630659+tanitoluwam@users.noreply.github.com>
+Date:   Sun Aug 7 00:20:42 2022 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit 6fb6b0f7486af8c2187026102abd6a2a16f9189d[m
+Merge: 10b1bf5 173ac40
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sun Aug 7 00:17:48 2022 +0100
+
+    Merge pull request #57 from titiodus/main
+    
+     I added my name to the list
+
+[33mcommit 10b1bf57bddbe0286a6417351ef7a89141ab4eec[m
+Merge: 5a2a3b2 cb27610
+Author: Success Chikezie <99509553+Succynice@users.noreply.github.com>
+Date:   Sun Aug 7 00:11:13 2022 +0100
+
+    Merge pull request #64 from engrmarkk/main
+    
+    Added My Name
+
+[33mcommit 53fbc846ff3a93135838fe79ce05451a3b9e9eab[m
+Author: Tanitoluwa <tanitoluwaadenuga@gmail.com>
+Date:   Sun Aug 7 00:08:43 2022 +0100
+
+    added my name
+
+[33mcommit cb276101f8bceb18712604ad31f8bd5d4b2afff2[m
+Author: Adeniy Olanrewaju Mark <adeniyiboladale@yahoo.com>
+Date:   Sun Aug 7 00:05:46 2022 +0100
+
+    contributed
+
+[33mcommit 1685454fbc8b6f2052db912bc5c449cd82468be1[m
+Author: Allen Enyi <ekeneenyi@gmail.com>
+Date:   Sun Aug 7 00:04:47 2022 +0100
+
+    Updated the names.txt file
+
+[33mcommit 5a2a3b2444695001a5956255f7594a5d4b44f2a7[m
+Merge: 359dfe5 af3beb6
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 23:58:36 2022 +0100
+
+    Merge pull request #62 from tuyojr/main
+    
+    added a link to altschool in the README
+
+[33mcommit 359dfe5c4116ed6a835f87c43be6829a162663b8[m
+Merge: 1ad4bd2 5103e1d
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 23:50:36 2022 +0100
+
+    Merge branch 'main' of https://github.com/Oluwasetemi/altschool-opensource-names
+
+[33mcommit 1fb04084743248f5d330e817bbf2e5356f520a2b[m
+Merge: 98901b9 5103e1d
+Author: Carmenbelle <carmieamba@gmail.com>
+Date:   Sat Aug 6 23:50:28 2022 +0100
+
+    pulled from main branch
+
+[33mcommit 1ad4bd2694866ac56fd19b8e3eb41710928e8d83[m
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 23:49:59 2022 +0100
+
+    FIX: Modify contribution instruction
+
+[33mcommit 173ac40a21c7b7c7e38d6444fd451e30cde411b1[m
+Merge: 34a8fd7 5103e1d
+Author: Titilola Oduwole <titioduwole@gmail.com>
+Date:   Sat Aug 6 23:47:14 2022 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit af3beb6d15e30762727fa85fb91a396e2b89fb64[m
+Merge: 9f1f1cb ba22ada
+Author: tuyojr <olutuyod@gmail.com>
+Date:   Sat Aug 6 23:43:57 2022 +0100
+
+    Merge branch 'main' of https://github.com/tuyojr/altschool-opensource-names
+
+[33mcommit 9f1f1cb3260e1f47ddb8f9373c0d6809d93e36f1[m
+Author: tuyojr <olutuyod@gmail.com>
+Date:   Sat Aug 6 23:40:15 2022 +0100
+
+    added a link to altschool in README
+
+[33mcommit 8b9862dd980c2c60b3945202c0c1165ece0750be[m
+Merge: 8e251a2 5103e1d
+Author: tuyojr <olutuyod@gmail.com>
+Date:   Sat Aug 6 23:36:47 2022 +0100
+
+    Merge branch 'main' of https://github.com/Oluwasetemi/altschool-opensource-names
+
+[33mcommit ba22adafd7bf7065fb586152f92f7f75be293e0a[m
+Merge: f7d5663 5103e1d
+Author: Adedolapo Olutuyo <85107972+tuyojr@users.noreply.github.com>
+Date:   Sat Aug 6 23:34:18 2022 +0100
+
+    Merge pull request #2 from Oluwasetemi/main
+    
+    Merge pull request #59 from tuyojr/main
+
+[33mcommit 5103e1d4471fe45391393affb61a41bd9d425295[m
+Merge: 67bab6a f7d5663
+Author: Success Chikezie <99509553+Succynice@users.noreply.github.com>
+Date:   Sat Aug 6 23:29:40 2022 +0100
+
+    Merge pull request #59 from tuyojr/main
+    
+    added altschool logo to README.md
+
+[33mcommit 8e251a2b8642195cc0a2770e6eedc256d5cbd82e[m
+Merge: 7ccc7fc 67bab6a
+Author: tuyojr <olutuyod@gmail.com>
+Date:   Sat Aug 6 23:29:13 2022 +0100
+
+    Merge branch 'main' of https://github.com/Oluwasetemi/altschool-opensource-names
+    
+    
+
+[33mcommit f7d5663aaa0d7a42d8be84b989c48e89eeda863c[m
+Merge: 7ccc7fc 67bab6a
+Author: Adedolapo Olutuyo <85107972+tuyojr@users.noreply.github.com>
+Date:   Sat Aug 6 23:28:15 2022 +0100
+
+    Merge pull request #1 from Oluwasetemi/main
+    
+    new name
+
+[33mcommit 34a8fd75268fded9ee673564bb1f88386fcf6015[m
+Merge: 552d733 67bab6a
+Author: Titilola Oduwole <titioduwole@gmail.com>
+Date:   Sat Aug 6 23:27:06 2022 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit 67bab6a4eb7c818a45e79b46a9a088c4a2774b7a[m
+Merge: dde54a5 c0992e0
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 23:24:40 2022 +0100
+
+    Merge pull request #53 from Aliyosign/main
+    
+    I have added my name
+
+[33mcommit c0992e03dc6dab729d8620779fdd271971b66da0[m
+Merge: e0cb6db dde54a5
+Author: Aliyosign <99335850+Aliyosign@users.noreply.github.com>
+Date:   Sat Aug 6 23:11:22 2022 -0700
+
+    I have added my name
+
+[33mcommit e0cb6db08e0cbd88ff239a5b496d214a73225099[m
+Author: Aliyosign <99335850+Aliyosign@users.noreply.github.com>
+Date:   Sat Aug 6 21:06:47 2022 -0700
+
+    I have added my name
+
+[33mcommit 7ccc7fcc25da81d79964470dfe621af71b1e9f21[m
+Author: tuyojr <olutuyod@gmail.com>
+Date:   Sat Aug 6 23:21:58 2022 +0100
+
+    added my name to the name.txt
+
+[33mcommit 319b287843da89375bfa4c842ef69aac4280f937[m
+Author: tuyojr <olutuyod@gmail.com>
+Date:   Sat Aug 6 23:20:28 2022 +0100
+
+    added altschool logo to README.md
+
+[33mcommit dde54a573bb47bbb17c918155429f54a509c419b[m
+Merge: c98a4e8 5ec129c
+Author: Success Chikezie <99509553+Succynice@users.noreply.github.com>
+Date:   Sat Aug 6 23:09:17 2022 +0100
+
+    Merge pull request #56 from Shegun-istaken/main
+    
+    Update names.txt
+
+[33mcommit 5ec129cc41f42dca1a38044140bd05e23e246291[m
+Merge: b09a054 c98a4e8
+Author: Segun Samuel <68255937+Shegun-istaken@users.noreply.github.com>
+Date:   Sat Aug 6 23:08:00 2022 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit c98a4e8958a917011c6cc5a772fb3ab777d99193[m
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 23:06:53 2022 +0100
+
+    FIX: Remove duplicate
+
+[33mcommit b09a054f19896e59bf7682848de3c18adabfc363[m
+Author: Segun Samuel <68255937+Shegun-istaken@users.noreply.github.com>
+Date:   Sat Aug 6 23:05:33 2022 +0100
+
+    Update names.txt
+
+[33mcommit d519c2571dfc71d592c38c483c93ab25246b209e[m
+Merge: 22843cd 6e4c22c
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 23:05:33 2022 +0100
+
+    Merge pull request #39 from jhhornn/main
+    
+    Contribution
+
+[33mcommit 552d733360812cb97a9edf96b19e07618d5ad3b6[m
+Author: Titilola Oduwole <titioduwole@gmail.com>
+Date:   Sat Aug 6 23:03:22 2022 +0100
+
+     I added my name to the list
+
+[33mcommit 6e4c22c04f25d2c6ba186d9518322e66d05e3ca5[m
+Merge: 83043bf 22843cd
+Author: Awosise Oluwaseun <awosiseo@gmail.com>
+Date:   Sat Aug 6 23:01:55 2022 +0100
+
+    updated
+
+[33mcommit 1bc11d0b8445d7c18529d63d1b47b57671585461[m
+Author: Segun Samuel <68255937+Shegun-istaken@users.noreply.github.com>
+Date:   Sat Aug 6 23:00:43 2022 +0100
+
+    Update names.txt
+
+[33mcommit 22843cda14e51ebcd8f493ac107c438367075137[m
+Merge: b2ad76a d50c68a
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 22:58:51 2022 +0100
+
+    Merge pull request #52 from UnkleTayo/develop
+    
+    Add name to list
+
+[33mcommit 83043bfdcc2d94689c1fe03c1d03d4cf07ce9a30[m
+Merge: 4c4ce4e b2ad76a
+Author: Awosise Oluwaseun <awosiseo@gmail.com>
+Date:   Sat Aug 6 22:56:53 2022 +0100
+
+    Awosise Oluwaseun
+
+[33mcommit d50c68a880e37e2dd3ab180ef2e60334c44c2682[m
+Merge: 16a2c15 b2ad76a
+Author: Adetayo <akinsanyaadetayo7@gmail.com>
+Date:   Sat Aug 6 22:55:11 2022 +0100
+
+    Merge branch 'main' of github.com:Oluwasetemi/altschool-opensource-names into develop
+
+[33mcommit 16a2c1511d7f3dc7f82bbf16fc8dee81d7395496[m
+Author: Adetayo <akinsanyaadetayo7@gmail.com>
+Date:   Sat Aug 6 22:53:47 2022 +0100
+
+    📖 DOC: Add my name to the list
+
+[33mcommit b2ad76a0be91b0dbc1196b88bdb1b7b3346c7d2a[m
+Merge: d07120c c09924e
+Author: Olúwásetèmi <setemiojo@gmail.com>
+Date:   Sat Aug 6 16:51:10 2022 -0500
+
+    Merge pull request #51 from Ze-Austin/main
+
+[33mcommit d07120c651e43b99de1456fdd2bb17d06bc85f79[m
+Merge: 17283ea 5997280
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 22:49:31 2022 +0100
+
+    Merge pull request #50 from hussain4real/main
+    
+    Added my name
+
+[33mcommit 5997280794468eefcffbea0b331a3cbed818a272[m
+Merge: 2bee7a1 17283ea
+Author: Hussain Aminu <hussain_aminu@yahoo.com>
+Date:   Sat Aug 6 22:48:32 2022 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit c09924ebb014e1339b08ac4049654743580cd0eb[m
+Author: Austin Wopara <austinwopara@gmail.com>
+Date:   Sat Aug 6 22:47:44 2022 +0100
+
+    Austin Wopara added his name
+
+[33mcommit 2bee7a155d6c4bbe4f9473e906ecdaf6e7891181[m
+Author: Hussain Aminu <hussain_aminu@yahoo.com>
+Date:   Sat Aug 6 22:46:36 2022 +0100
+
+    minor correction
+
+[33mcommit 80b62f1d1d0c841246b4586e45126e6fc0173465[m
+Author: Hussain Aminu <hussain_aminu@yahoo.com>
+Date:   Sat Aug 6 22:46:10 2022 +0100
+
+    added my name
+
+[33mcommit 17283ea15f6c37b9ac92824fb7f3e94e0e4cb834[m
+Merge: c95216c 467a7ca
+Author: Oluwaseun Abiola <oluabiolaseun@gmail.com>
+Date:   Sat Aug 6 22
