@@ -13,3 +13,12 @@ xmlhttp.onreadystatechange = function () {
 }
 xmlhttp.open("GET", "names.txt", true);
 xmlhttp.send();
+
+// THEME TOGGLE
+
+const checkbox = document.getElementById("checkbox");
+checkbox.addEventListener("change", () => {
+  document.body.classList.toggle("light");
+  document.querySelector("#headline").classList.toggle("light");
+  document.querySelector("#reload-btn").classList.toggle("light");
+});
