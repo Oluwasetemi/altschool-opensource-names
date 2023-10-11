@@ -32,14 +32,13 @@ body.light {
 #logo-area {
   position: fixed;
   top: 0;
-  width: 40%;
-  height: 100px;
-  margin-bottom: 1rem;
-  padding: 1rem 3rem;
+  width: 100%;
+  height: 90px;
   background-color: #05070d;
-  text-align: center;
-  border-radius: 0 0 10px 10px;
   z-index: 2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 h1 {
@@ -62,7 +61,8 @@ h1 {
 }
 
 #logo {
-  margin: 1rem 2rem;
+  /* margin: 1rem 2rem; */
+  padding-left: 20px;
 }
 
 #list-wrapper {
@@ -122,9 +122,6 @@ h1 {
 
 /* THEME TOGGLE SWITCH */
 .toggle {
-  position: absolute;
-  top: 110px;
-  left: 350px;
 }
 .label {
   position: relative;
@@ -136,6 +133,7 @@ h1 {
   height: 20px;
   width: 50px;
   border-radius: 50px;
+  margin-right: 20px;
 }
 
 .checkbox {
